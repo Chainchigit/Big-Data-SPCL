@@ -18,12 +18,12 @@ ETL Pipeline Development/
  02_Extract_Data/
  03_Transform_Data/
  04_Load_to_BigQuery/
- README.md
- 01_Predictive Model/
+
+Predictive Model/
  02_Data_Preprocessing/
  03_Modelling/
  04_Evaluation/
- README.md
+
 
 - **ETL Pipeline Development**: Scripts and notebooks for building data pipelines (libraries, import modules, extract, transform, load, etc.).  
 - **Predictive Model**: Projects for building, training, and evaluating predictive models using the clean data from ETL pipelines.
