@@ -20,9 +20,9 @@ ETL Pipeline Development/
  04_Load_to_BigQuery/
 
 Predictive Model/
- 02_Data_Preprocessing/
- 03_Modelling/
- 04_Evaluation/
+ 01_Data_Preprocessing/
+ 02_Modelling/
+ 03_Evaluation/
 
 
 - **ETL Pipeline Development**: Scripts and notebooks for building data pipelines (libraries, import modules, extract, transform, load, etc.).  
